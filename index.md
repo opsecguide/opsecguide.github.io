@@ -6,7 +6,7 @@ Opsec (operation security) is the process of securing and protecting crucial inf
 
 It consists of these core points below to secure your operation.
 
-1. _[Threat models][Threat Models]_
+1. _[Threat models](#threatmodel)_
 2. _[Choosing your tools](#tool)_
 3. _[Metadata](#metadata)_
 4. _[Web of Trust](#weboftrust)_
